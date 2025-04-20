@@ -1,0 +1,3 @@
+/home/magdy/CLionProjects/NavierStockSolver/cmake-build-debug/CMakeFiles/NavierStockSolver.dir
+/home/magdy/CLionProjects/NavierStockSolver/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/magdy/CLionProjects/NavierStockSolver/cmake-build-debug/CMakeFiles/rebuild_cache.dir

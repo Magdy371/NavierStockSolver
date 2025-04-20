@@ -1,0 +1,5 @@
+# ninja log v6
+1187	1471	1745108173471976891	NavierStockSolver	f84d0606f5bfdae3
+51	1185	1745108172336764052	CMakeFiles/NavierStockSolver.dir/main.cpp.o	c8714590f04802bd
+26	856	1745189686034024500	build.ninja	8d3e075a038d3711
+47	2293	1745189686146967993	CMakeFiles/NavierStockSolver.dir/main.cpp.o	c8714590f04802bd
